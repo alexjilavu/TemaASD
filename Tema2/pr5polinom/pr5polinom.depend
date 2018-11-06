@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539029149 source:e:\info\fmi\asd\tema2\pr5polinom\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+
